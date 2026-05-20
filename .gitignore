@@ -1,0 +1,8 @@
+.env
+venv
+./aws/downloads/*
+/aws/config.env
+
+data/*
+__pycache__/*
+aws/downloads/*
